@@ -1,8 +1,6 @@
 # About
 App para practicar el disenio de layouts con widgets mas comunes
 containers, stacks, row/columns, text fields, etc...
-- Empezar a utilizar manejo de estados en los widgets.
-- Utilizar Provider.
 
 ## Getting Started
 
